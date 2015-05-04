@@ -1,1 +1,1 @@
-# 使用socket.io + Angular
+# 使用socket.io + Angular打造单页面应用
